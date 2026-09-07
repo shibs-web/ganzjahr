@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#EEF1E7"/>
+  <g opacity="0.5" stroke="#3E7A2F" stroke-width="1">
+    <line x1="-60" y1="0" x2="-120" y2="300"/><line x1="-20" y1="0" x2="-80" y2="300"/><line x1="20" y1="0" x2="-40" y2="300"/><line x1="60" y1="0" x2="0" y2="300"/><line x1="100" y1="0" x2="40" y2="300"/><line x1="140" y1="0" x2="80" y2="300"/><line x1="180" y1="0" x2="120" y2="300"/><line x1="220" y1="0" x2="160" y2="300"/><line x1="260" y1="0" x2="200" y2="300"/><line x1="300" y1="0" x2="240" y2="300"/><line x1="340" y1="0" x2="280" y2="300"/><line x1="380" y1="0" x2="320" y2="300"/><line x1="420" y1="0" x2="360" y2="300"/>
+  </g>
+  <rect width="400" height="300" fill="none" stroke="#7CB342" stroke-width="3"/>
+  <g transform="translate(100,60) scale(1)"><rect x="55" y="90" width="90" height="60" rx="6" fill="none" stroke="#1C2B1C" stroke-width="5"/><path d="M55,90 Q70,70 85,90 Q100,70 115,90 Q130,70 145,90" fill="none" stroke="#1C2B1C" stroke-width="5"/></g>
+  <text x="200" y="235" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1C2B1C" text-anchor="middle">Heckenschnitt</text>
+  <text x="200" y="258" font-family="Arial, sans-serif" font-size="13" fill="#3E7A2F" text-anchor="middle">Formschnitt</text>
+  <text x="200" y="282" font-family="Arial, sans-serif" font-size="10" fill="#9AA090" text-anchor="middle">Platzhalter — durch eigenes Foto ersetzen</text>
+</svg>

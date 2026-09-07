@@ -1,5 +1,3 @@
-// GanzJahr — small, dependency-free interactions
-
 document.addEventListener('DOMContentLoaded', () => {
 
   // Footer year
@@ -69,12 +67,9 @@ document.addEventListener('DOMContentLoaded', () => {
 // Angebotsanfrage — E-Mail & WhatsApp
 // ==========================================================
 
-// Ziel-Adresse für die E-Mail-Anfrage — bei Bedarf anpassen.
-const CONTACT_EMAIL = 'info@ganzjahr-beispiel.de';
 
-// WhatsApp-Nummer im internationalen Format OHNE "+", Leerzeichen oder führende 0.
-// Beispiel: aus +49 151 12345678 wird 4915112345678
-const WHATSAPP_NUMBER = '491234567890';
+const CONTACT_EMAIL = 'info@ganzjahr.de';
+const WHATSAPP_NUMBER = '491634823664';
 
 function buildRequestMessage() {
   const get = (id) => (document.getElementById(id)?.value || '').trim();

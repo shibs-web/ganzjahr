@@ -1,0 +1,13 @@
+{
+  "name": "GanzJahr – Garten & Objektpflege",
+  "short_name": "GanzJahr",
+  "lang": "de",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F6F7F1",
+  "theme_color": "#1F3B24",
+  "icons": [
+    { "src": "/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
